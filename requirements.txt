@@ -1,4 +1,5 @@
 fastapi
 pycaret
+pycaret.classification
 pandas
 uvicorn
